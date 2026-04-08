@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alfaifi--sultan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaifi-sultan)
 [![Email](https://img.shields.io/badge/Email-sultalfaifi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sultalfaifi@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SultanAlfaifi&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/SultanAlfaifi)
 
 </div>
 
@@ -26,7 +25,7 @@ role    : Full-Stack AI Systems Builder
 now     : AI Developer @ IBM Lab — building GovTech AI for Saudi citizens
 edu     : Software Engineering · UQU · GPA 3.66 · Top 5% KAUST AI
 awards  : [ McKinsey Forward Fellow, Best UI Designer Award ]
-stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, Figma ]
+stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, MySQL, Figma ]
 ```
 
 <br/>
@@ -43,7 +42,7 @@ stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, Figma ]
 SaaS competition platform — built end-to-end from Figma to production.
 Eliminated **100%** of manual moderation through automated workflows.
 
-`Next.js` `PostgreSQL` `Figma` `AI`
+`Next.js` `MySQL` `Figma` `AI`
 
 </td>
 <td width="50%" valign="top">
@@ -96,11 +95,13 @@ CV, DL, and fine-tuning from scratch on custom datasets.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -114,8 +115,8 @@ CV, DL, and fine-tuning from scratch on custom datasets.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=58A6FF"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=58A6FF"/>
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
 
 <br/>
 
