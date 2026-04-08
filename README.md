@@ -21,10 +21,10 @@
 
 ```yaml
 name    : Sultan Alfaifi
-role    : Full-Stack AI Systems Builder
-now     : AI Developer @ IBM Lab — building GovTech AI for Saudi citizens
+role    : Full-Stack & AI Systems Builder
+now     : AI Developer @ IBM Lab — building real GovTech AI systems
 edu     : Software Engineering · UQU · GPA 3.66 · Top 5% KAUST AI
-awards  : [ McKinsey Forward Fellow, Best UI Designer Award ]
+awards  : [ McKinsey Forward Fellow, Best UI Designer — UQU Computer Club ]
 stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, MySQL, Figma ]
 ```
 
@@ -32,7 +32,7 @@ stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, MySQL, Figma ]
 
 ---
 
-### Featured Projects
+### Selected Work
 
 <table>
 <tr>
@@ -59,8 +59,8 @@ Contextual memory + natural multi-turn Arabic dialogue.
 <td width="50%" valign="top">
 
 **🤖 IBM GovTech AI**
-Competitively selected to build live AI for Saudi citizen services
-using IBM watsonx under direct expert guidance.
+Selected to contribute to live AI systems for Saudi citizen services
+using IBM watsonx in an expert-led GovTech environment.
 
 `IBM watsonx` `Python` `Data Pipelines` `ML`
 
@@ -123,6 +123,8 @@ CV, DL, and fine-tuning from scratch on custom datasets.
 [![GitHub Streak](https://streak-stats.demolab.com?user=SultanAlfaifi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
 
 ---
 
