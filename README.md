@@ -1,100 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=160&section=header&text=Sultan%20Alfaifi&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20AI%20Builder%20%20·%20%20UI%2FUX%20Designer%20%20·%20%20IBM%20AI%20Developer&descSize=14&descColor=8b949e&descAlignY=78" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=560&lines=Top+5%25+KAUST+AI+·+GPA+3.66+·+McKinsey+Forward+Fellow;Building+real+AI+for+Saudi+citizens+%40+IBM+Lab;I+design+the+interface.+I+train+the+model.+I+ship+the+product.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alfaifi--sultan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaifi-sultan)
+[![Email](https://img.shields.io/badge/Email-sultalfaifi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sultalfaifi@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SultanAlfaifi&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/SultanAlfaifi)
 
 </div>
 
+<br/>
+
+---
+
+### About
+
+```yaml
+name    : Sultan Alfaifi
+role    : Full-Stack AI Systems Builder
+now     : AI Developer @ IBM Lab — building GovTech AI for Saudi citizens
+edu     : Software Engineering · UQU · GPA 3.66 · Top 5% KAUST AI
+awards  : [ McKinsey Forward Fellow, Best UI Designer Award ]
+stack   : [ PyTorch, IBM watsonx, React, Next.js, Spring Boot, Figma ]
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   Sultan Alfaifi                                         ║
-║   Full-Stack AI Systems Builder                          ║
-║                                                          ║
-║   IBM AI Developer · McKinsey Forward Fellow             ║
-║   Top 5% KAUST AI · GPA 3.66                             ║
-║                                                          ║
-║   > I don't attend meetings about AI. I ship it.         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+
+<br/>
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🏆 Fawazir](https://fawazir.com)**
+SaaS competition platform — built end-to-end from Figma to production.
+Eliminated **100%** of manual moderation through automated workflows.
+
+`Next.js` `PostgreSQL` `Figma` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+**[🎙️ DANNA](https://github.com/SultanAlfaifi/DANNA)**
+One of the first Arabic AI voice assistants on Alexa.
+Contextual memory + natural multi-turn Arabic dialogue.
+
+`Python` `Alexa SDK` `Prompt Engineering` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 IBM GovTech AI**
+Competitively selected to build live AI for Saudi citizen services
+using IBM watsonx under direct expert guidance.
+
+`IBM watsonx` `Python` `Data Pipelines` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+**[🧪 KAUST AI Portfolio](https://github.com/SultanAlfaifi/KAUST-AI-Projects)**
+Deep learning projects under KAUST Academy specialists —
+CV, DL, and fine-tuning from scratch on custom datasets.
+
+`PyTorch` `CNN` `Transfer Learning` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**[→ View all projects](https://github.com/SultanAlfaifi?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### Stack
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real+AI+for+Saudi+citizens+%40+IBM;Shipped+Fawazir+—+from+Figma+to+production;One+of+the+first+Arabic+AI+assistants+on+Alexa;Available+for+COOP+Training)](https://git.io/typing-svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
-
-## `$ whoami`
-
-```python
-{
-  "now"       : "AI Developer @ IBM Lab — GovTech AI, Saudi Arabia",
-  "education" : "Software Engineering, UQU — Top 5% KAUST AI | GPA 3.66",
-  "fellowships": ["McKinsey Forward Fellow", "Best UI Designer Award"],
-  "builds"    : "end-to-end — Figma wireframe → ML pipeline → shipped product",
-  "open_to"   : "COOP Training · AI Systems · Full-Stack · UI/UX"
-}
-```
+<br/>
 
 ---
 
-## `$ ls ./projects`
-
-```
-├── Fawazir/              # SaaS competition platform — fawazir.com
-│   ├── stack       →  Next.js · PostgreSQL · Figma · AI
-│   └── impact      →  Eliminated 100% of manual moderation. Live in production.
-│
-├── DANNA/                # Arabic AI voice assistant on Alexa
-│   ├── stack       →  Python · Alexa SDK · Prompt Engineering · NLP  
-│   └── impact      →  Contextual memory + multi-turn Arabic dialogue
-│
-├── IBM-GovTech-AI/       # Live AI system for Saudi citizen services
-│   ├── stack       →  IBM watsonx · Data Pipelines · Python · ML
-│   └── impact      →  Competitively selected — real gov-sector deployment
-│
-├── KAUST-AI-Portfolio/   # Deep learning projects under KAUST experts
-│   ├── stack       →  PyTorch · CNN · Transfer Learning · Computer Vision
-│   └── impact      →  Trained & fine-tuned models from scratch on custom datasets
-│
-└── ...and more           # github.com/SultanAlfaifi
-```
-
----
-
-## `$ cat stack.txt`
-
-```
-AI & ML      →  PyTorch · IBM watsonx · TensorFlow · NLP · Computer Vision
-Backend      →  Python · Java · Spring Boot · REST APIs · Data Pipelines
-Frontend     →  React · Next.js · JavaScript · HTML/CSS
-Design       →  Figma  [Best UI Designer Award]
-Infra        →  Git · Vercel · PostgreSQL · Prisma
-```
-
----
-
-## `$ git log --stats`
+### Stats
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=58A6FF"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SultanAlfaifi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaifi-sultan)
-[![Email](https://img.shields.io/badge/sultalfaifi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sultalfaifi@gmail.com)
-[![GitHub](https://img.shields.io/badge/SultanAlfaifi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanAlfaifi)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=80&section=footer" width="100%"/>
 </div>
