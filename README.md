@@ -59,8 +59,8 @@ Contextual memory + natural multi-turn Arabic dialogue.
 <td width="50%" valign="top">
 
 **🤖 IBM GovTech AI**
-Selected to contribute to live AI systems for Saudi citizen services
-using IBM watsonx in an expert-led GovTech environment.
+Competitively selected to develop a real AI solution for Saudi government
+citizen services — applying IBM watsonx under direct expert guidance from IBM.
 
 `IBM watsonx` `Python` `Data Pipelines` `ML`
 
