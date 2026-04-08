@@ -115,16 +115,14 @@ CV, DL, and fine-tuning from scratch on custom datasets.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=58A6FF"/>
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
+<img height="150" src="https://github-readme-stats-omega-vert-16.vercel.app/api?username=SultanAlfaifi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&icon_color=58A6FF"/>
+<img height="150" src="https://github-readme-stats-omega-vert-16.vercel.app/api/top-langs/?username=SultanAlfaifi&layout=compact&theme=github_dark&hide_border=true&hide_title=true"/>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SultanAlfaifi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-<br/>
 
 ---
 
